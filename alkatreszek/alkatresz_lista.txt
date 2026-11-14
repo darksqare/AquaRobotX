@@ -12,10 +12,11 @@ starter bundle:
 11. MicroSD 32 GB
 
 kulon cuccok:
-1. *analog FPV kamera*
-2. *1.2ghz analog VTX*
-3. *Ardupilot FC*
-4. *18650 akksi tarto 3db akksi*
-5. *5v/12v >3A buck converter*
-6. *kabelek ig*
+1. Caddx Ratel 2 analóg FPV kamera
+2. Matek VTX-1G3SE-9 1.2 GHz VTX
+3. SpeedyBee F405 WING APP (ArduPilot FC)
+4. 3x18650 tartó + 3S 20 A BMS + 3x Samsung INR18650-30Q
+5. XL4015 5 A buck konverter (5 V)
+6. 16–18 AWG szilikon kábel, XT60, DuPont, 10 A biztosíték, főkapcsoló
 7. 12v LED 25w
+8. RadioMaster Pocket + Bandit Nano 900 MHz (TX) + Bandit BR1 (RX)

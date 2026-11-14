@@ -1,0 +1,21 @@
+starter bundle:
+1. LD-06 LiDar
+2. Filament (PETG)
+3. 4x TT motor
+4. 4x kerek TT motorhoz
+5. DRV8837 H-bridge
+6. ESP32-C6 supermini
+7. Raspberry Pi® SC1223 kamera
+8. GY68 - BMP180 homero modul
+9. BMI160 6IMU
+10. Raspberry Pi 4 4GB
+11. MicroSD 32 GB
+
+kulon cuccok:
+1. *analog FPV kamera*
+2. *1.2ghz analog VTX*
+3. *Ardupilot FC*
+4. *18650 akksi tarto 3db akksi*
+5. *5v/12v >3A buck converter*
+6. *kabelek ig*
+7. 12v LED 25w

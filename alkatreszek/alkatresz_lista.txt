@@ -20,3 +20,4 @@ kulon cuccok:
 6. 16–18 AWG szilikon kábel, XT60, DuPont, 10 A biztosíték, főkapcsoló
 7. 12v LED 25w
 8. RadioMaster Pocket + Bandit Nano 900 MHz (TX) + Bandit BR1 (RX)
+9. Matek VRX-1G3-V2 1.2 GHz VRX

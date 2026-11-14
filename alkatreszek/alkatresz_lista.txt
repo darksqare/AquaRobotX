@@ -21,3 +21,5 @@ kulon cuccok:
 7. 12v LED 25w
 8. RadioMaster Pocket + Bandit Nano 900 MHz (TX) + Bandit BR1 (RX)
 9. Matek VRX-1G3-V2 1.2 GHz VRX
+10. USB 2.0 CVBS–USB video grabber (MS2109 / UTV007)
+11. MikroE OSD Click (MAX7456 SPI OSD modul, RPi-hez)
